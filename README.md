@@ -2,7 +2,7 @@
 
 **AI-powered legal document analyzer** — upload any contract, NDA, rental agreement, or employment letter and instantly get a plain-English summary, red flag detection, a risk score, negotiation suggestions, and an AI chatbot to ask questions about your document.
 
-🔗 **Live Demo:** _[Add your deployed link here once live]_
+🔗 Live Demo: https://legal-ease-lilac.vercel.app/
 
 ---
 
