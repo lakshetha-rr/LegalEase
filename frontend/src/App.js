@@ -35,7 +35,7 @@ const loadingMessages = [
   const formData = new FormData();
   formData.append("file", f);
   try {
-    const res = await fetch("http://localhost:8000/upload", {
+    const res = await fetch("https://legalease-ogd7.onrender.com/upload", {
       method: "POST",
       body: formData,
     });
@@ -120,7 +120,7 @@ const sendChatMessage = async () => {
   setChatLoading(true);
 
   try {
-    const res = await fetch("http://localhost:8000/chat", {
+    const res = await fetch("https://legalease-ogd7.onrender.com/chat", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
