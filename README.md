@@ -8,7 +8,26 @@
 
 ## 📸 Preview
 
-_Add 2-3 screenshots or a short GIF here showing the homepage, the analysis results, and the chatbot in action._
+### Uploadpage
+![LegalEase Uploadpage](screenshots/LegalEase_UploadPage.png)
+
+### Analysis Results
+![Analysis Results](screenshots/LegalEase_ResultsPage_1.png)
+![Analysis Results](screenshots/LegalEase_ResultsPage_2.png)
+![Analysis Results](screenshots/LegalEase_ResultsPage3.png)
+![Analysis Results](screenshots/LegalEase_ResultsPage_4.png)
+
+### AI Chatbot
+![AI Chatbot](screenshots/LegalEase_Chatbot.png)
+
+### Download Result as pdf 
+![Download Result as pdf](screenshots/LegalEase_pdfDownload.png)
+
+### How It Works
+![How It Works](screenshots/LegalEase_HowItWorks.png)
+
+### Features
+![Features](screenshots/LegalEase_Features.png)
 
 ---
 
