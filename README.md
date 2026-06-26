@@ -2,7 +2,11 @@
 
 **AI-powered legal document analyzer** — upload any contract, NDA, rental agreement, or employment letter and instantly get a plain-English summary, red flag detection, a risk score, negotiation suggestions, and an AI chatbot to ask questions about your document.
 
-🔗 Live Demo: https://legal-ease-lilac.vercel.app/
+## 🌐 Live Demo
+
+Frontend: https://legal-ease-lilac.vercel.app/
+
+Backend API: https://legalease-ogd7.onrender.com
 
 ---
 
@@ -142,3 +146,9 @@ People sign contracts, rental agreements, and employment letters every day witho
 B.Tech Computer Science Engineering, VIT Chennai
 
 Feel free to reach out or connect if you have feedback or questions about this project!
+
+## ⚠️ Note
+
+This project uses Render's free hosting tier for the backend.
+
+If the backend has been inactive for some time, the first request may take **30–60 seconds** while the server wakes up. This is a limitation of the free hosting plan and only affects the first request. Subsequent requests respond normally.
